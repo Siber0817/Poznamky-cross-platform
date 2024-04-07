@@ -21,10 +21,10 @@
 		<Nullable>enable</Nullable>
 
 		<!-- Display name -->
-		<ApplicationTitle>test</ApplicationTitle>
+		<ApplicationTitle>Notes</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.test</ApplicationId>
+		<ApplicationId>com.Siber0817.Notes</ApplicationId>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
